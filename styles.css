@@ -1,0 +1,22 @@
+.hr {
+    width:10%;
+}
+.header {
+    background-color: #00FFFF;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 150px;
+}
+
+h1, p {
+    text-align: center;
+}
+
+body {
+    margin: 0;
+}
+
+.title {
+    padding-top: 40px;
+    color: #323232;
+}
